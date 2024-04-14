@@ -1,0 +1,13 @@
+body {
+  font-family: var(--font-poppins);
+}
+
+a {
+  text-decoration: none;
+}
+
+.logo-dimension {
+  height: 60px;
+  width: 150px;
+  object-fit: contain;
+}

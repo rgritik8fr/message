@@ -1,0 +1,5 @@
+.icon-input-wrapper input {
+  background: var(--light-gray);
+  font-size: var(--font14) !important;
+  padding: 10px;
+}

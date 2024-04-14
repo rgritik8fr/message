@@ -1,0 +1,13 @@
+.auth-Wrapper {
+  min-height: 100vh;
+  width: 100%;
+  background: var(--light-gray);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.auth-Wrapper form {
+  min-width: 450px;
+  padding: 15px 10px;
+}
